@@ -1,0 +1,9 @@
+{
+  "id": "fitness-tracker",
+  "name": "Fitness Tracker",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Log workouts into dated notes, then see a monthly consistency heatmap and per-exercise weight, reps and set stats.",
+  "author": "",
+  "isDesktopOnly": false
+}
